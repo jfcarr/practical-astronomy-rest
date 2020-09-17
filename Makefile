@@ -15,6 +15,7 @@ get-slim:
 	composer require slim/psr7
 	-rm -rf public/vendor/
 	mv vendor/ public/vendor/
+	echo 'deny from all' > public/vendor/.htaccess
 	-rm -f composer.json
 	-rm -f composer.lock
 
