@@ -4,8 +4,8 @@
 
 * Web server must support URL rewriting
 * PHP 7.2 or newer
-* [Composer tool](https://getcomposer.org/)
-* If you want to generate API documentation, you'll need [apiDoc](https://apidocjs.com/).
+* [Composer tool](https://getcomposer.org/).  This is used to install the SLIM framework, which you can do via the Makefile.
+* If you want to generate API documentation, you'll need [apiDoc](https://apidocjs.com/).  After apiDoc is installed, you can generate documentation with the Makefile.
 
 ## Configuration
 
