@@ -1,6 +1,6 @@
 {
 	"name": "REST for Practical Astronomy",
 	"description": "Practical Astronomy calculations via a RESTful interface.",
-	"url": "https://pa-rest.goodguyscience.com",
-	"sampleUrl": "https://pa-rest.goodguyscience.com"
+	"url": "<replace with your deployment root URL>",
+	"sampleUrl": "<replace with your deployment root URL>"
 }
